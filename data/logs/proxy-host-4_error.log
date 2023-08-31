@@ -1,0 +1,1 @@
+2023/08/28 12:35:03 [warn] 327#327: *241 a client request body is buffered to a temporary file /tmp/nginx/body/3/00/0000000003, client: 119.131.137.19, server: dav2.404notfound.fun, request: "PUT /2023-07-18%2022.14.08.jpeg HTTP/2.0", host: "dav2.404notfound.fun"
